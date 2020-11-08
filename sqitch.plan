@@ -7,3 +7,4 @@ schemas/registration 2020-11-08T08:05:18Z Joseph Choe <joseph@josephchoe.com> # 
 roles/registration_view_data [schemas/registration] 2020-11-07T23:47:48Z Joseph Choe <joseph@josephchoe.com> # Role for registration view data component
 roles/registration_view_web [schemas/registration] 2020-11-08T07:32:11Z Joseph Choe <joseph@josephchoe.com> # Role for registration view web
 tables/registrations [schemas/registration] 2020-11-08T08:07:53Z Joseph Choe <joseph@josephchoe.com> # Registrations table
+privileges/registration_view_data [roles/registration_view_data schemas/registration] 2020-11-08T08:50:16Z Joseph Choe <joseph@josephchoe.com> # Privileges for registration view data component
