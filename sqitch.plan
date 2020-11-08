@@ -5,3 +5,4 @@
 schemas/public 2020-11-08T08:01:48Z Joseph Choe <joseph@josephchoe.com> # Public schema removed
 schemas/registration 2020-11-08T08:05:18Z Joseph Choe <joseph@josephchoe.com> # Registration schema
 roles/registration_view_data [schemas/registration] 2020-11-07T23:47:48Z Joseph Choe <joseph@josephchoe.com> # Role for registration view data component
+roles/registration_view_web [schemas/registration] 2020-11-08T07:32:11Z Joseph Choe <joseph@josephchoe.com> # Role for registration view web
